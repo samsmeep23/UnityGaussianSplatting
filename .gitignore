@@ -7,20 +7,11 @@
 /images/*
 /Shot-*.png
 
-/Assets/GaussianAssets/*
-/Assets/GaussianAssets.meta
-/Assets/Models~/*
+
 /Library/*
 /Logs/*
 /Temp/*
 /UserSettings/*
 /obj/*
 
-/projects/**/Assets/GaussianAssets/*
-/projects/**/Assets/GaussianAssets.meta
-/projects/**/Assets/Models~/*
-/projects/**/Library/*
-/projects/**/Logs/*
-/projects/**/Temp/*
-/projects/**/UserSettings/*
-/projects/**/obj/*
+
